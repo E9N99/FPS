@@ -6,7 +6,6 @@ selenium
 setuptools
 wheel
 cloudscraper
-pymongo[srv]
 speechrecognition
 colour
 qrcode

@@ -1,1 +1,1 @@
-worker: python3 -m SeDuB
+worker: python3 -m SedUb
